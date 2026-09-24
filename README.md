@@ -2,7 +2,6 @@
 
 Projeto pessoal desenvolvido para praticar **Excel, tratamento de dados, tabelas dinâmicas, visualização e dashboards aplicados a Recursos Humanos**.
 
-**Data do desafio:** 29/06/2026  
 **Tema:** Gestão de Talentos e análise de indicadores de RH
 
 ## Objetivo
